@@ -1,0 +1,30 @@
+{
+  "name": "traning-landing",
+  "version": "1.0.0",
+  "description": "this traning landing",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailkozhevnikov/training.git"
+  },
+  "author": "Kozhevnikov Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihailkozhevnikov/training/issues"
+  },
+  "homepage": "https://github.com/mihailkozhevnikov/training#readme"
+}
